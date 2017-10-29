@@ -42,7 +42,7 @@ As a log in user, in addition to the above, you also can:
 
 ## Screenshot
 * Home page
-<img src="https://github.com/xiaoluo2017/Voting_app/blob/master/images/home.PNG">
+<img src="https://github.com/xiaoluo2017/Voting_app/blob/master/images/Capture.PNG">
 
 * mypolls page
 <img src="https://github.com/xiaoluo2017/Voting_app/blob/master/images/myPolls.PNG">
