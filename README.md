@@ -1,7 +1,7 @@
 # Voting_app
 A powerful voting website supporting users to create polls and vote for options, users can manage their own polls
 
-## Usage
+## Getting Started
 * Clone Repo 
 ```
 git clone https://github.com/xiaoluo2017/Voting_app.git
@@ -36,9 +36,19 @@ As a visitor, you can:
 
 As a log in user, in addition to the above, you also can:
 * Create a poll with any number of possible items
-* Vote on everyone's polls, if there is no matching option, you can add a custom one. And for each poll, you're only allowed to vote once
-* Browse all your history polls
+* Vote on everyone's polls, if there is no matching option, you can add a custom one. And for each poll, you're allowed to vote only  once
+* Browse all of your history polls
 * Delete your poll
+
+## Built With
+* [React](https://facebook.github.io/react/) - a Javascript Library for Building User Interfaces
+* [Redux](http://redux.js.org/) - State Management
+* [Node](https://nodejs.org) - a Javascript Runtime
+* [Express.js](http://expressjs.com) - The Web Framework
+* [Mongodb](http://mongodb.github.io/node-mongodb-native/2.0/) - Database
+* [Recharts](http://recharts.org/#/zh-CN/guide) - React Chart Library
+* [react-bootstrap](https://react-bootstrap.github.io/) - Bootstrap rebuilt for React
+* [react-router-v4](https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf) - Front-end Router
 
 ## Screenshot
 * Home page
@@ -55,4 +65,3 @@ As a log in user, in addition to the above, you also can:
 
 ## Reference
 This project was built with [Create React App](https://github.com/facebookincubator/create-react-app) and [Express Backend](https://daveceddia.com/create-react-app-express-backend/)</br>
-I also use [Recharts](http://recharts.org/#/zh-CN/guide) to build charts, [React Router v4](https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf) to help Choosing router and creating routes
