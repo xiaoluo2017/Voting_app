@@ -1,6 +1,13 @@
 # Voting_app
 A powerful voting website supporting users to create polls and vote for options, users can manage their own polls<br/>
-<img src="https://github.com/xiaoluo2017/Voting_app/blob/master/images/poll.PNG">
+<p align="center" margin-bottom="0">
+  <a href="http://www.hnclone.win" target="_blank">
+    <img alt="Voting App Clone Demo" width="auto" height="auto" src="https://github.com/xiaoluo2017/Voting_app/blob/master/images/poll.PNG">
+  </a>
+</p>
+<p align="center">
+  <a href="https://shielded-fortress-87400.herokuapp.com/">Live Demo</a>
+</p>
 
 ## Getting Started
 * Clone Repo 
@@ -35,7 +42,7 @@ As a visitor, you can:
 * See everyone's polls on the home page
 * By clicking on the specific poll, see the options and results in chart form of this poll 
 
-As a log in user, in addition to the above, you also can:
+As a login user, in addition to the above, you also can:
 * Create a poll with any number of possible items
 * Vote on everyone's polls, if there is no matching option, you can add a custom one. And for each poll, you're allowed to vote only  once
 * Browse all of your history polls
