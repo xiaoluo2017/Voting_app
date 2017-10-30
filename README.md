@@ -2,7 +2,7 @@
 A powerful voting website supporting users to create polls and vote for options, users can manage their own polls<br/>
 <p align="center" margin-bottom="0">
   <a href="http://www.hnclone.win" target="_blank">
-    <img alt="Voting App Clone Demo" width="auto" height="auto" src="https://github.com/xiaoluo2017/Voting_app/blob/master/images/poll.PNG">
+    <img alt="Voting App Clone Demo" width="auto" height="auto" src="https://github.com/xiaoluo2017/Voting_app/blob/master/images/Capture.PNG">
   </a>
 </p>
 <p align="center">
