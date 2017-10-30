@@ -1,5 +1,16 @@
 # Voting_app
-A powerful voting website supporting users to create polls and vote for options, users can manage their own polls
+A powerful voting website supporting users to create polls and vote for options, users can manage their own polls<br/>
+
+## Desciption
+As a visitor, you can:
+* See everyone's polls on the home page
+* By clicking on the specific poll, see the options and results in chart form of this poll 
+
+As a log in user, in addition to the above, you also can:
+* Create a poll with any number of possible items
+* Vote on everyone's polls, if there is no matching option, you can add a custom one. And for each poll, you're allowed to vote only  once
+* Browse all of your history polls
+* Delete your poll
 
 ## Getting Started
 * Clone Repo 
@@ -29,16 +40,8 @@ npm start
 ```
 * open your browser and go to localhost:3000
 
-## Features
-As a visitor, you can:
-* See everyone's polls on the home page
-* By clicking on the specific poll, see the options and results in chart form of this poll 
-
-As a log in user, in addition to the above, you also can:
-* Create a poll with any number of possible items
-* Vote on everyone's polls, if there is no matching option, you can add a custom one. And for each poll, you're allowed to vote only  once
-* Browse all of your history polls
-* Delete your poll
+## Demo
+A demonstration of this app can be seen [running on heroku](https://shielded-fortress-87400.herokuapp.com/)
 
 ## Built With
 * [React](https://facebook.github.io/react/) - a Javascript Library for Building User Interfaces
