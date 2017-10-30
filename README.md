@@ -35,11 +35,7 @@ cd Voting_app && npm install
 ```
 * Run the back-end 
 ```
-PORT=3001 node bin/www
-```
-In Windows: 
-```
-set PORT=3001 && node bin/www
+node bin/www
 ```
 * Install dependencies for the font-end 
 ```
