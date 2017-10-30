@@ -1,16 +1,6 @@
 # Voting_app
 A powerful voting website supporting users to create polls and vote for options, users can manage their own polls<br/>
-
-## Desciption
-As a visitor, you can:
-* See everyone's polls on the home page
-* By clicking on the specific poll, see the options and results in chart form of this poll 
-
-As a log in user, in addition to the above, you also can:
-* Create a poll with any number of possible items
-* Vote on everyone's polls, if there is no matching option, you can add a custom one. And for each poll, you're allowed to vote only  once
-* Browse all of your history polls
-* Delete your poll
+<img src="https://github.com/xiaoluo2017/Voting_app/blob/master/images/poll.PNG">
 
 ## Getting Started
 * Clone Repo 
@@ -40,6 +30,17 @@ npm start
 ```
 * open your browser and go to localhost:3000
 
+## Desciption
+As a visitor, you can:
+* See everyone's polls on the home page
+* By clicking on the specific poll, see the options and results in chart form of this poll 
+
+As a log in user, in addition to the above, you also can:
+* Create a poll with any number of possible items
+* Vote on everyone's polls, if there is no matching option, you can add a custom one. And for each poll, you're allowed to vote only  once
+* Browse all of your history polls
+* Delete your poll
+
 ## Demo
 A demonstration of this app can be seen [running on heroku](https://shielded-fortress-87400.herokuapp.com/)
 
@@ -52,19 +53,6 @@ A demonstration of this app can be seen [running on heroku](https://shielded-for
 * [Recharts](http://recharts.org/#/zh-CN/guide) - React Chart Library
 * [react-bootstrap](https://react-bootstrap.github.io/) - Bootstrap rebuilt for React
 * [react-router-v4](https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf) - Front-end Router
-
-## Screenshot
-* Home page
-<img src="https://github.com/xiaoluo2017/Voting_app/blob/master/images/Capture.PNG">
-
-* mypolls page
-<img src="https://github.com/xiaoluo2017/Voting_app/blob/master/images/myPolls.PNG">
-
-* newPoll page
-<img src="https://github.com/xiaoluo2017/Voting_app/blob/master/images/newPoll.PNG">
-
-* vote page
-<img src="https://github.com/xiaoluo2017/Voting_app/blob/master/images/poll.PNG">
 
 ## Reference
 This project was built with [Create React App](https://github.com/facebookincubator/create-react-app) and [Express Backend](https://daveceddia.com/create-react-app-express-backend/)</br>
