@@ -183,7 +183,7 @@ class Header extends Component {
             }
             {this.state.isRegister 
               ? <div><h6>Have an account? <a onClick={this.displayLogIn}>Log in</a></h6></div>
-              : <div><h6>Don't have an account? <a onClick={this.displayRegister}>Sign up</a></h6></div>
+              : <div><h6>Do not have an account? <a onClick={this.displayRegister}>Sign up</a></h6></div>
             }
           </Modal.Footer>
         </Modal.Dialog>
