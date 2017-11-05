@@ -136,7 +136,7 @@ class Header extends Component {
 
     const alertLogInInstance = (
       <Alert bsStyle="danger">
-        The username you entered doesn't belong to an account. Please check your username and try again.
+        The username you entered does not belong to an account. Please check your username and try again.
       </Alert>
     );
 
