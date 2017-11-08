@@ -7,7 +7,7 @@ A powerful voting website supporting users to create polls and vote for options,
   </a>
 </p>
 <p align="center">
-  <a href="https://shielded-fortress-87400.herokuapp.com/">Live Demo</a>
+  <a href="https://cryptic-plateau-68929.herokuapp.com/">Live Demo</a>
 </p>
 
 ## Overview
